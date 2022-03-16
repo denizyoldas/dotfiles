@@ -1,6 +1,6 @@
 # My Dotfile
 
-## insade
+## Contents
 
 - Vim Config
 - Scoop Config
